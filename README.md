@@ -3,7 +3,7 @@
 ### About me:
 - ML Engineer at Aramco Innovations
 - 📚 6th year student at Moscow State University
-- 📄 Check out my [CV](https://github.com/graphoman1535/graphoman1535/blob/main/Roman_Gataullin_CV.pdf)
+- 📄 Check out my [CV]([https://github.com/graphoman1535/graphoman1535/blob/main/Roman_Gataullin_CV.pdf](https://github.com/graphoman1535/graphoman1535/blob/main/Gataullin_Roman_CV(eng).pdf))
 - 📫 How to reach me: [Telegram](https://t.me/RomanGataullin) • [Email](mailto:rghataullin96@gmail.com)
 
 ### Languages and Tools
